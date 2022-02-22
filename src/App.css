@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* STAR RATING STYLES */
+button {
+  background-color:transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.on {
+  color: blue;
+}
+
+.off {
+  color: red;
+}
